@@ -1,4 +1,5 @@
 # PLEASE READ!
+EDITED BY Nilam Chakraborty
 
 
 This is a Selenium bot for buying a given sneaker from the Nike Snkrs website ON RELEASE DAY.
